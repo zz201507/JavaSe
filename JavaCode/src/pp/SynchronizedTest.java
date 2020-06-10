@@ -59,7 +59,6 @@ public class SynchronizedTest {
                     e.printStackTrace();
                 }
             }
-
         }
     }
 
@@ -67,13 +66,13 @@ public class SynchronizedTest {
         Thread t1 = new Thread(){
             @Override
             public void run() {
-                s2.methodD();
+                s1.fun();
             }
         };
         Thread t2 = new Thread(){
             @Override
             public void run() {
-                s1.methodD();
+                s1.fun1();
             }
         };
         t1.setName("Ïß³Ì1:");

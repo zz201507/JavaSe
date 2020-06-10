@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Jodb/Jodb.iml" filepath="$PROJECT_DIR$/Jodb/Jodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyTest/MyTest.iml" filepath="$PROJECT_DIR$/MyTest/MyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Work.iml" filepath="$PROJECT_DIR$/.idea/Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daili/daili.iml" filepath="$PROJECT_DIR$/daili/daili.iml" />
       <module fileurl="file://$PROJECT_DIR$/pushTest/pushTest.iml" filepath="$PROJECT_DIR$/pushTest/pushTest.iml" />
     </modules>
   </component>

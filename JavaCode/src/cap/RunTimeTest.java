@@ -10,11 +10,9 @@ import java.util.*;
 public class RunTimeTest {
     public static void main(String[] args) throws IOException, ParseException, AWTException, InterruptedException {
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        Date date = df.parse("2020-05-24 23:36:45" +
-                "");
+        Date date = df.parse("2020-05-24 23:36:45");
         System.out.println(date);
         TimerTask timerTask = new TimerTask() {
-
             @Override
             public void run() {
                     try {
